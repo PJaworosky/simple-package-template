@@ -9,8 +9,8 @@ with open("requirements.txt") as f:
 setup(
     name="package_name",
     version="0.0.1",
-    author="my_name",
-    author_email="my_email",
+    author="Paloma Jaworosky",
+    author_email="jaworosky@gmail.com",
     description="My short description",
     long_description=page_description,
     long_description_content_type="text/markdown",
